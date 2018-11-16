@@ -1,0 +1,14 @@
+{
+  "name": "reselecture",
+  "version": "1.0.0",
+  "description": "Example code for the Three Rs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Kozachek <matthew.kozachek@import.io>",
+  "license": "ISC",
+  "devDependencies": {
+    "reselect": "^4.0.0"
+  }
+}
